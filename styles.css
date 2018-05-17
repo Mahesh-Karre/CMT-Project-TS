@@ -1,0 +1,74 @@
+@CHARSET "ISO-8859-1";
+body 
+{
+ 
+   background-color:#99ccff;
+ 
+   font:11pt verdana;
+ margin:0;
+
+}
+
+
+td
+
+{  
+  font:11pt verdana; 
+}
+
+
+
+th
+
+{
+  
+    font:700 11pt verdana;
+  
+    background-color:black;
+  
+    color:white;
+
+}
+
+
+
+
+h1 
+{
+
+  background-color:navy;
+color:white;
+
+  font:700 30pt arial;
+  
+letter-spacing:5pt;
+
+}
+
+
+
+a
+
+{ 
+   font:700 11pt verdana
+}
+
+
+
+h2
+
+{
+ 
+   font:700 18pt arial;
+
+}
+
+
+h3
+
+{
+ 
+   font:700 16pt arial;
+   color:navy;
+
+}
